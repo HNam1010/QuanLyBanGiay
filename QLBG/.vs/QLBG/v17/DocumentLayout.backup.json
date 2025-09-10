@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5187B-0701-4BCA-B294-617063948ECD}|QLBG\\QLBG.csproj|e:\\hk2_nam_3\\laptrinhquanly\\doan_cuahangbangiay\\qlbg\\qlbg\\forms\\frm_loaigiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02C5187B-0701-4BCA-B294-617063948ECD}|QLBG\\QLBG.csproj|solutionrelative:qlbg\\forms\\frm_loaigiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5187B-0701-4BCA-B294-617063948ECD}|QLBG\\QLBG.csproj|e:\\hk2_nam_3\\laptrinhquanly\\doan_cuahangbangiay\\qlbg\\qlbg\\forms\\frm_nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C5187B-0701-4BCA-B294-617063948ECD}|QLBG\\QLBG.csproj|solutionrelative:qlbg\\forms\\frm_nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5187B-0701-4BCA-B294-617063948ECD}|QLBG\\QLBG.csproj|e:\\hk2_nam_3\\laptrinhquanly\\doan_cuahangbangiay\\qlbg\\qlbg\\forms\\frm_giay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C5187B-0701-4BCA-B294-617063948ECD}|QLBG\\QLBG.csproj|solutionrelative:qlbg\\forms\\frm_giay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5187B-0701-4BCA-B294-617063948ECD}|QLBG\\QLBG.csproj|E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\qlbg\\forms\\frm_giay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02C5187B-0701-4BCA-B294-617063948ECD}|QLBG\\QLBG.csproj|solutionrelative:qlbg\\forms\\frm_giay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5187B-0701-4BCA-B294-617063948ECD}|QLBG\\QLBG.csproj|e:\\hk2_nam_3\\laptrinhquanly\\doan_cuahangbangiay\\qlbg\\qlbg\\data\\qlbgdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C5187B-0701-4BCA-B294-617063948ECD}|QLBG\\QLBG.csproj|solutionrelative:qlbg\\data\\qlbgdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5187B-0701-4BCA-B294-617063948ECD}|QLBG\\QLBG.csproj|e:\\hk2_nam_3\\laptrinhquanly\\doan_cuahangbangiay\\qlbg\\qlbg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C5187B-0701-4BCA-B294-617063948ECD}|QLBG\\QLBG.csproj|solutionrelative:qlbg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_LoaiGiay.cs [Design]",
+              "DocumentMoniker": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\Forms\\Frm_LoaiGiay.cs",
+              "RelativeDocumentMoniker": "QLBG\\Forms\\Frm_LoaiGiay.cs",
+              "ToolTip": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\Forms\\Frm_LoaiGiay.cs [Design]",
+              "RelativeToolTip": "QLBG\\Forms\\Frm_LoaiGiay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:02:10.454Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_NhaCungCap.cs",
+              "DocumentMoniker": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\Forms\\Frm_NhaCungCap.cs",
+              "RelativeDocumentMoniker": "QLBG\\Forms\\Frm_NhaCungCap.cs",
+              "ToolTip": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\Forms\\Frm_NhaCungCap.cs",
+              "RelativeToolTip": "QLBG\\Forms\\Frm_NhaCungCap.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:59:18.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_Giay.cs",
+              "DocumentMoniker": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\Forms\\Frm_Giay.cs",
+              "RelativeDocumentMoniker": "QLBG\\Forms\\Frm_Giay.cs",
+              "ToolTip": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\Forms\\Frm_Giay.cs",
+              "RelativeToolTip": "QLBG\\Forms\\Frm_Giay.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowJ0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:36:33.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frm_Giay.cs [Design]",
+              "DocumentMoniker": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\Forms\\Frm_Giay.cs",
+              "RelativeDocumentMoniker": "QLBG\\Forms\\Frm_Giay.cs",
+              "ToolTip": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\Forms\\Frm_Giay.cs [Design]",
+              "RelativeToolTip": "QLBG\\Forms\\Frm_Giay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:50:20.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QLBGDbContext.cs",
+              "DocumentMoniker": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\Data\\QLBGDbContext.cs",
+              "RelativeDocumentMoniker": "QLBG\\Data\\QLBGDbContext.cs",
+              "ToolTip": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\Data\\QLBGDbContext.cs",
+              "RelativeToolTip": "QLBG\\Data\\QLBGDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:36:43.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\Program.cs",
+              "RelativeDocumentMoniker": "QLBG\\Program.cs",
+              "ToolTip": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\Program.cs",
+              "RelativeToolTip": "QLBG\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:59:20.559Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
