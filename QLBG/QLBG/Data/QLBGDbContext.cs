@@ -19,6 +19,5 @@ namespace QLBG.Data
         public DbSet<ChiTiet_HoaDon> ChiTiet_HoaDon { get; set; }
         private string connectionString = "Server=.\\SQLEXPRESS;Database=QLBG;Integrated Security=True;MultipleActiveResultSets=True;TrustServerCertificate=True";
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) => optionsBuilder.UseSqlServer(connectionString);
-
     }
 }

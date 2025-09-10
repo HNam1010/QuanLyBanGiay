@@ -22,6 +22,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = QLBG
-build_property.ProjectDir = E:\HK2_Nam_3\LapTrinhQuanLy\DOAN_CuaHangBanGiay\QLBG\QLBG\
+build_property.ProjectDir = E:\DOAN_CuaHangBanGiay\QLBG\QLBG\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

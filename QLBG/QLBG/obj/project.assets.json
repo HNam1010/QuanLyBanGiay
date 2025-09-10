@@ -9481,11 +9481,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\QLBG.csproj",
+      "projectUniqueName": "E:\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\QLBG.csproj",
       "projectName": "QLBG",
-      "projectPath": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\QLBG.csproj",
+      "projectPath": "E:\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\QLBG.csproj",
       "packagesPath": "C:\\Users\\fptsh\\.nuget\\packages\\",
-      "outputPath": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\obj\\",
+      "outputPath": "E:\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fptsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9573,7 +9573,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
       }
     }
   },

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s7ZmlRqqbMU=",
+  "dgSpecHash": "LnpoJXgKGnkCi1h2/H8X96b8r3e1Pk/0ezrb/E9e/KQbFpFQGaiNU69ZZZQjmofgAmxWe/Dd3HgD5oRiY/RvAA==",
   "success": true,
-  "projectFilePath": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\QLBG.csproj",
+  "projectFilePath": "E:\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\QLBG.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fptsh\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\fptsh\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

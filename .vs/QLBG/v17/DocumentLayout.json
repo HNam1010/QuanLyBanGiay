@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5187B-0701-4BCA-B294-617063948ECD}|QLBG\\QLBG.csproj|e:\\hk2_nam_3\\laptrinhquanly\\doan_cuahangbangiay\\qlbg\\qlbg\\forms\\frm_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C5187B-0701-4BCA-B294-617063948ECD}|QLBG\\QLBG.csproj|solutionrelative:qlbg\\forms\\frm_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5187B-0701-4BCA-B294-617063948ECD}|QLBG\\QLBG.csproj|e:\\hk2_nam_3\\laptrinhquanly\\doan_cuahangbangiay\\qlbg\\qlbg\\forms\\frm_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02C5187B-0701-4BCA-B294-617063948ECD}|QLBG\\QLBG.csproj|solutionrelative:qlbg\\forms\\frm_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5187B-0701-4BCA-B294-617063948ECD}|QLBG\\QLBG.csproj|e:\\hk2_nam_3\\laptrinhquanly\\doan_cuahangbangiay\\qlbg\\qlbg\\forms\\frm_loaigiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C5187B-0701-4BCA-B294-617063948ECD}|QLBG\\QLBG.csproj|solutionrelative:qlbg\\forms\\frm_loaigiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5187B-0701-4BCA-B294-617063948ECD}|QLBG\\QLBG.csproj|e:\\hk2_nam_3\\laptrinhquanly\\doan_cuahangbangiay\\qlbg\\qlbg\\forms\\frm_loaigiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02C5187B-0701-4BCA-B294-617063948ECD}|QLBG\\QLBG.csproj|solutionrelative:qlbg\\forms\\frm_loaigiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_LoaiGiay.cs",
+              "DocumentMoniker": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\Forms\\Frm_LoaiGiay.cs",
+              "RelativeDocumentMoniker": "QLBG\\Forms\\Frm_LoaiGiay.cs",
+              "ToolTip": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\Forms\\Frm_LoaiGiay.cs",
+              "RelativeToolTip": "QLBG\\Forms\\Frm_LoaiGiay.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAlwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:03:16.301Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_KhachHang.cs",
+              "DocumentMoniker": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\Forms\\Frm_KhachHang.cs",
+              "RelativeDocumentMoniker": "QLBG\\Forms\\Frm_KhachHang.cs",
+              "ToolTip": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\Forms\\Frm_KhachHang.cs",
+              "RelativeToolTip": "QLBG\\Forms\\Frm_KhachHang.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAowM4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:05:33.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_KhachHang.cs [Design]",
+              "DocumentMoniker": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\Forms\\Frm_KhachHang.cs",
+              "RelativeDocumentMoniker": "QLBG\\Forms\\Frm_KhachHang.cs",
+              "ToolTip": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\Forms\\Frm_KhachHang.cs [Design]",
+              "RelativeToolTip": "QLBG\\Forms\\Frm_KhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:05:31.054Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frm_LoaiGiay.cs [Design]",
+              "DocumentMoniker": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\Forms\\Frm_LoaiGiay.cs",
+              "RelativeDocumentMoniker": "QLBG\\Forms\\Frm_LoaiGiay.cs",
+              "ToolTip": "E:\\HK2_Nam_3\\LapTrinhQuanLy\\DOAN_CuaHangBanGiay\\QLBG\\QLBG\\Forms\\Frm_LoaiGiay.cs [Design]",
+              "RelativeToolTip": "QLBG\\Forms\\Frm_LoaiGiay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:02:10.454Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
